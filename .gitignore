@@ -15,3 +15,5 @@ kernel_states
 __pycache__
 .github/
 front/package-lock.json
+giga_ag_fork
+giga_ag_fork.pub
